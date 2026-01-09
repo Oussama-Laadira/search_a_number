@@ -1,0 +1,7 @@
+{
+  "hibp_api_key": "",       
+  "dehashed_api_key": "",    
+  "snusbase_api_key": "",    
+  "leakcheck_api_key": "",   
+  "use_services": ["hibp","dehashed","snusbase","leakcheck"]  
+}

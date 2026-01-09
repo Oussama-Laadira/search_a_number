@@ -1,0 +1,60 @@
+{
+  "phone_number_osint_sites": {
+    "primary_lookup": {
+      "Truecaller": "https://www.truecaller.com/search/global/{}",
+      "SyncMe": "https://sync.me/search/?number={}",
+      "Numverify": "https://numverify.com/?number={}",
+      "TwilioLookup": "https://www.twilio.com/lookup/{}",
+      "OpenCNAM": "https://opencnam.com/phone/{}"
+    },
+    "traditional_directories": {
+      "Whitepages": "https://www.whitepages.com/phone/{}",
+      "YellowPages": "https://www.yellowpages.com/phone/{}",
+      "AnyWho": "https://www.anywho.com/phone/{}",
+      "Spokeo": "https://www.spokeo.com/{}",
+      "ZabaSearch": "https://www.zabasearch.com/phone/{}"
+    },
+    "caller_identification": {
+      "WhoCalledMe": "https://whocalledme.com/phone/{}",
+      "800notes": "https://800notes.com/Phone.aspx/{}",
+      "MrNumber": "https://mrnumber.com/{}",
+      "CallerSmart": "https://www.callersmart.com/search/{}"
+    },
+    "social_media": {
+      "FacebookSearch": "https://www.facebook.com/search/top?q={}",
+      "Instagram": "https://www.instagram.com/direct/t/{}",
+      "Telegram": "https://t.me/+{}",
+      "WhatsApp": "https://wa.me/{}",
+      "LinkedIn": "https://www.linkedin.com/search/results/people/?phone={}",
+      "google": "https://www.google.com/search?q={}",
+      "yandex": "https://yandex.com/search/?text={}",
+      "telegram": "https://t.me/+{}/",
+      "whatsapp": "https://api.whatsapp.com/send?phone={}"
+    },
+    "messaging_apps": {
+      "LINE": "https://line.me/ti/p/{}",
+      "WeChat": "https://web.wechat.com/{}",
+      "Viber": "viber://chat?number={}"
+    },
+    "multi_platform_search": {
+      "SocialSearcher": "https://www.social-searcher.com/search/users/?q={}",
+      "Pipl": "https://pipl.com/search/?q={}",
+      "ThatsThem": "https://thatsthem.com/phone/{}",
+      "BeenVerified": "https://www.beenverified.com/phone/{}"
+    },
+    "business_professional": {
+      "Glassdoor": "https://www.glassdoor.com/Search/results.htm?keyword={}",
+      "ZoomInfo": "https://www.zoominfo.com/search?query={}"
+    },
+    "search_engines": {
+      "Google": "https://www.google.com/search?q={}",
+      "Bing": "https://www.bing.com/search?q={}",
+      "DuckDuckGo": "https://duckduckgo.com/?q={}"
+    },
+    "reverse_lookup": {
+      "ReversePhoneLookup": "https://www.reversephonelookup.com/{}",
+      "PhoneNumberLookup": "https://phonenumberlookup.com/{}",
+      "SpyDialer": "https://www.spydialer.com/default.aspx?phone={}"
+    }
+  }
+}
